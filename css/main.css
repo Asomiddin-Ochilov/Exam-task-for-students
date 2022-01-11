@@ -10,6 +10,7 @@ html{
 body{
     background: black;
     font-family: monospace, 'Courier New', Courier;
+     user-select: none;
 }
 header{
     position: relative;
